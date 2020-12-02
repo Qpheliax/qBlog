@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qBlog/static/css/main.88f15c7f.chunk.css",
+    "main.js": "/qBlog/static/js/main.e85292ab.chunk.js",
+    "main.js.map": "/qBlog/static/js/main.e85292ab.chunk.js.map",
+    "runtime-main.js": "/qBlog/static/js/runtime-main.0bd03eb6.js",
+    "runtime-main.js.map": "/qBlog/static/js/runtime-main.0bd03eb6.js.map",
+    "static/js/2.d3af70a7.chunk.js": "/qBlog/static/js/2.d3af70a7.chunk.js",
+    "static/js/2.d3af70a7.chunk.js.map": "/qBlog/static/js/2.d3af70a7.chunk.js.map",
+    "index.html": "/qBlog/index.html",
+    "static/css/main.88f15c7f.chunk.css.map": "/qBlog/static/css/main.88f15c7f.chunk.css.map",
+    "static/js/2.d3af70a7.chunk.js.LICENSE.txt": "/qBlog/static/js/2.d3af70a7.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/qBlog/static/media/pattern.7df18edb.svg",
+    "static/media/gear.78fb0400.svg": "/qBlog/static/media/gear.78fb0400.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd03eb6.js",
+    "static/js/2.d3af70a7.chunk.js",
+    "static/css/main.88f15c7f.chunk.css",
+    "static/js/main.e85292ab.chunk.js"
+  ]
+}
