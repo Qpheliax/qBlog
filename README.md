@@ -1,1 +1,1 @@
-https://qpheliax.github.io/qBlog/index.html
+https://qpheliax.github.io/qBlog/
